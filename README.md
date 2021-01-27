@@ -11,4 +11,5 @@ This is my coursework for the GCSE UK curriculum for ages 14-16. The objective i
 The program is about 1800 lines long and is written using just tkinter, math, random and time in-built libraries. It is class based, mostly using self and writing to external files for permanent storage. All code is written by myself except for the function to convert from RGB to hexadecimal. 
 
 `========THIS IS HORRIBLE=======`
+
 SonarCloud estimates the whole thing to take 3 days of solid work to fix - which is not happening. This is a monument to bad coding, but whatever; I was learning python when I wrote this. There are some particularly horrible examples on lines 1153, 1584, 1649, 172 if you really want to get into it, not to mention the entire structure. However, by some miracle, it works, and quite nicely at that - I'm proud of the UI, specifically the fade-in/fade out, loading screens and the entire dice-rollig scene. It's definitely useable if you don't look at the source code...
