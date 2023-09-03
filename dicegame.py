@@ -597,7 +597,7 @@ program initialization complete'''.splitlines()
 
         self.fadeIn()
         
-        self.window.update()
+        self.window.mainloop()
 
     def menu(self):
 
